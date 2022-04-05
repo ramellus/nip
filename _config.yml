@@ -3,7 +3,7 @@
 # Setup
 title:               NIP Theories
 tagline:             'Course notes'
-description:         'Ed is a Jekyll theme designed for textual editors based on minimal computing principles, and focused on legibility and flexibility.'
+description:         'Notes from the course "Logic III - NIP Theories" at WWU Münster.'
 url:                 'http://simoneramello.net'
 baseurl:             '/nip'
 
