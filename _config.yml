@@ -11,10 +11,10 @@ baseurl:             '/nip'
 author:
   name:              Simone Ramello
   url:               https://twitter.com/ramellus
-  email:             colibri.alex@gmail.com
+  email:             sramello@wwu.de
 
 # Color scheme. Options: red, orange, magenta, cyan, blue, brown
-color-scheme:
+color-scheme: cyan
 
 # Permalinks
 permalink: pretty
